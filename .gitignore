@@ -1,0 +1,11 @@
+*.csv
+.ipynb_checkpoints
+model
+*.zip
+.DS_Store
+analysis.ipynb
+baseline.ipynb
+part2-lgb-tfidf.ipynb
+part1-nn-train.ipynb
+*.npy
+images
