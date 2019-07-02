@@ -1,6 +1,6 @@
 *.csv
 .ipynb_checkpoints
-model
+model/*
 *.zip
 .DS_Store
 analysis.ipynb
@@ -9,3 +9,4 @@ part2-lgb-tfidf.ipynb
 part1-nn-train.ipynb
 *.npy
 images
+!/model/.gitkeep
